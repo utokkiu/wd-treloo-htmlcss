@@ -11,6 +11,9 @@
 
 ⚠️ Aset gambar bisa kamu dapatkan di folder assets
 
+⚠️ Setelah selesai, submit form di https://bit.ly/pwExSubmissionMid25
+
+
 
 ![Treloo Landing Page](https://github.com/user-attachments/assets/65f475d8-90d8-4b18-9cf1-90e6d456612a)
 
@@ -26,6 +29,7 @@ Yang harus kamu buat:
 #### Commit ke GitHub dengan pesan: Selesai Section Hero
 
 
+
 ### [SECTION 2] – Recommended Destination
 Yang harus kamu buat:
 - Judul section: "Recommended Destination"
@@ -33,6 +37,7 @@ Yang harus kamu buat:
 - 4 kartu destinasi:
   - Gambar, nama tempat, lokasi, dan rating bintang
 #### Commit ke GitHub dengan pesan: Selesai Section Recommended
+
 
 
 ### [SECTION 3] – Informasi Destinasi Global
@@ -44,12 +49,20 @@ Yang harus kamu buat:
 #### Commit ke GitHub dengan pesan: Selesai Section Destinasi Dunia
 
 
+
 ### [SECTION 4] – Promo Akhir & Footer
 Yang harus kamu buat:
 - Judul promo: “Don’t Miss The 50% Discount if You register Today”
 - Tombol: “Register Today”
 - Footer dengan teks hak cipta dan menu navigasi bawah
 #### Commit ke GitHub dengan pesan: Selesai Section Promo & Footer
+
+
+### Final Push
+Setelah semua selesai, lakukan:
+- Cek kembali kode HTML & CSS kamu (struktur, indentasi, komentar).
+- Push final dengan pesan: Final Commit - Treloo Page Complete
+- Kirim link repository hasil fork dan submit melalui [Form ini](https://bit.ly/pwExSubmissionMid25)
 
 
 [ Project Figma original dibuat oleh Neb Chanvanda dan bisa kamu dapatkan di Figma Community, dan telah disederhanakan isinya ]
