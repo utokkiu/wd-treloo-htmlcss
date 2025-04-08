@@ -8,15 +8,52 @@
   <title>Treloo Travel Landing Page</title>
   <link rel="stylesheet" href="style.css" />
 </head>
+
 <body>
   <!-- SECTION 1: Header & Hero -->
   <header>
     <!-- TODO: Tambahkan logo, menu navigasi, dan tombol Blog -->
+    <h1 class="treloo"> Treloo </h1>
+    <ul>
+
+      <li><a href="#blog2">Blog</a></li>
+      <li><a href="#blog">Blog</a></li>
+      <li><a href="#alert">Alert</a></li>
+      <li><a href="#tips">Tips</a></li>
+      <li><a class="nav" href="#review">Review</a></li>
+
+
+
+    </ul>
+
   </header>
 
   <section class="hero">
     <!-- TODO: Tambahkan heading, subheading, background image -->
     <!-- TODO: Tambahkan form pencarian (Flight/Hotel, input lokasi & tanggal) -->
+    <h1 class="discover"> Discover Your Life, Travel Where You Want</h1>
+    <p class="would">Would you explore nature paradise in the world, lets find the best destination with us
+      <form
+        style="width: 400px; margin: auto; padding: 20px; border: 1px solid #ccc; border-radius: 10px; background-color: #f9f9f9;">
+
+        <label for="nama" style="display: block; margin-bottom: 5px;">Nama:</label>
+        <input type="text" id="nama" name="nama" placeholder="Masukkan nama"
+            style="width: 100%; padding: 8px; margin-bottom: 15px; border: 1px solid #ccc; border-radius: 5px;">
+
+        <label for="email" style="display: block; margin-bottom: 5px;">Email:</label>
+        <input type="email" id="email" name="email" placeholder="Masukkan email"
+            style="width: 100%; padding: 8px; margin-bottom: 15px; border: 1px solid #ccc; border-radius: 5px;">
+
+        <label for="pesan" style="display: block; margin-bottom: 5px;">Pesan:</label>
+        <textarea id="pesan" name="pesan" rows="5" placeholder="Tulis pesan..."
+            style="width: 100%; padding: 8px; margin-bottom: 15px; border: 1px solid #ccc; border-radius: 5px;"></textarea>
+
+        <button type="submit"
+            style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">
+            Kirim
+        </button>
+
+    </form>
   </section>
 
   <!-- SECTION 2: Recommended Destination -->
